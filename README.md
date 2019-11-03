@@ -14,3 +14,8 @@ Mathematics 1A (may be taken concurrently); programming experience equivalent to
 >**Website**
 
 https://inst.eecs.berkeley.edu/~cs61a/sp19/
+
+>**Projects**
+
+-Project 1: The Game of Hog
+
