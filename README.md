@@ -15,7 +15,21 @@ Mathematics 1A (may be taken concurrently); programming experience equivalent to
 
 https://inst.eecs.berkeley.edu/~cs61a/sp19/
 
+>**Programming Languages**
+
+- Python
+
+- SQL
+
+- Scheme
+
 >**Projects**
 
 - Project 1: The Game of Hog
+
+- Project 2: Yelp Maps
+
+- Project 3: Ants Vs. SomeBees
+
+- Project 4: Scheme Interpreter
 
