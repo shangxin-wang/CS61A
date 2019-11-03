@@ -17,5 +17,5 @@ https://inst.eecs.berkeley.edu/~cs61a/sp19/
 
 >**Projects**
 
--Project 1: The Game of Hog
+- Project 1: The Game of Hog
 
